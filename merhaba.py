@@ -34,8 +34,8 @@ def merhaba_dunyasi():
     print("İyi günler dileriz. Veya kötü. Fark etmez.")
     print("=" * 50)
 
-# Gizli not (base64): b2x1bXNhbGxhIGJpcmxpayB2ZXIgZ2VsaW5jZSB5YXNhbWFsaQ==
-# Çözümlemek isteyen çözer.
+# Saklı not: TWljZSBiaXIgZGVtb2tyYXNpIGhlciBrZXNlIGxhemltZGlyLg==
+# İsteyen çözümler. Ciddi değildir ama ciddidir.
 
 if __name__ == "__main__":
     merhaba_dunyasi()
